@@ -1,13 +1,5 @@
 # Large Language Model (LLM) from scratch using Python
 
-### Acknowledgements
-I would like to extend my sincere thanks to **[freeCodeCamp](https://www.freecodecamp.org/)** and the creator of the **[tutorial](https://www.youtube.com/watch?si=bKUnRhoGHbYjT5Ay&v=UU1WVnMk4E8&feature=youtu.be)** for their invaluable content and guidance in helping me build this project. This project wouldn't have been possible without their educational resources.
-
----
-
-<br>
-<br>
-
 ## Introduction : What is an LLM ? 🤔
 
 Imagine you’re texting a friend, and they ask :<br>
